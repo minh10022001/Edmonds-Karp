@@ -50,9 +50,9 @@ vector <int> graph[MAXN];
 // show the path builed by BFS in grarph
 int parList[MAXN];
 // shows the maximum flow to a node in the path built by the BFS
-int currentPathC[10];
+int currentPathC[MAXN];
 // show  a node which is visited  or not
-bool visited[10];
+bool visited[MAXN];
 
 
 // Find path builed by BFS and path flow in residual network
