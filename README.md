@@ -29,7 +29,7 @@ Thực hiện: Nguyễn Văn Minh - B19DCCN439
 - + Chạy chương trình thuật toán
 - + Nhập input:
 - + ![image](https://user-images.githubusercontent.com/83805481/169515270-250bf566-c4a0-4e90-9a5a-aec4f8ba5a76.png)
--+ Output: 
+- + Output: 
 - + ![image](https://user-images.githubusercontent.com/83805481/169515455-ff49bdd5-66a2-4103-b041-e5e95207d1ed.png)
 - + Vậy luồng cực đại trong ví dụ này là 5
 
