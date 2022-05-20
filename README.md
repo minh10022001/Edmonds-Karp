@@ -1,6 +1,8 @@
 # TTCS
 Báo cáo:Thuật toán Edmonds-Karp
+
 Môn : Thực tập cơ sở
+
 Thực hiện: Nguyễn Văn Minh - B19DCCN439
 
 *Thuật toán Edmonds-Karp sử dụng để tìm luồng cực đại trong mạng
@@ -24,7 +26,7 @@ Thực hiện: Nguyễn Văn Minh - B19DCCN439
       - 4 6 1
       - 5 6 9
 
--+ Chạy chương trình thuật toán
+- + Chạy chương trình thuật toán
 - + Nhập input:
 - + ![image](https://user-images.githubusercontent.com/83805481/169515270-250bf566-c4a0-4e90-9a5a-aec4f8ba5a76.png)
 -+ Output: 
